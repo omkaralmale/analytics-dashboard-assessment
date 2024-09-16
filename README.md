@@ -1,6 +1,4 @@
-Certainly! Here's the `.md` code for the README:
 
-````markdown
 # MapUp - Analytics Dashboard Assessment
 
 ## Overview
@@ -68,7 +66,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/your-repo/your-project.git
    ```
-````
+
 
 2. Navigate to the project directory:
 
@@ -96,8 +94,3 @@ To run this project locally:
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-You can copy and paste this code into your `README.md` file. Let me know if you need any further adjustments!
-```
